@@ -1,2 +1,2 @@
 # warehouse system
-using c#,entityframework core, windows-forms.
+using C#,Entityframework core, windows-forms.
